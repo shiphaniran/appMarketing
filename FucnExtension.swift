@@ -1,10 +1,4 @@
-//
-//  FucnExtension.swift
-//  AppQuanAo
-//
-//  Created by datnguyen on 9/13/16.
-//  Copyright © 2016 datnguyen.com. All rights reserved.
-//
+
 
 import Foundation
 import UIKit
